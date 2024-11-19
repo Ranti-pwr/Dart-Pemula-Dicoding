@@ -1,4 +1,4 @@
-/* Drat Type System */
+/* Dart Type System */
 class Kotak<T> {
   T? isi;
 
